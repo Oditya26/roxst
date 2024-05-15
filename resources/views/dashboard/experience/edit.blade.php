@@ -5,7 +5,7 @@
     <form action="{{route('experience.update', $data->id)}}" method="POST" enctype="multipart/form-data">
         @csrf
         @method('put')
-        <div class="mb-3">
+        <div class="mb-4">
             <label for="tittle" class="form-label">Image Name</label>
             <input
                 type="text"

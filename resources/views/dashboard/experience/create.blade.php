@@ -4,7 +4,7 @@
     <div class="pb-3"><a href="{{route('experience.index')}}" class="btn btn-secondary"><< Back</a></div>
     <form action="{{route('experience.store')}}" method="POST">
         @csrf
-        <div class="mb-3">
+        <div class="mb-4">
             <label for="tittle" class="form-label">Image Name</label>
             <input
                 type="text"
