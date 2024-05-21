@@ -89,13 +89,13 @@
           </li>
           <li class="nav-item">
             <a class="nav-link" href="{{route('experience.index')}}">
-              <i class="mdi mdi-file-document-box-outline menu-icon"></i>
+              <i class="mdi mdi-television-guide menu-icon"></i>
               <span class="menu-title">Portofolio</span>
             </a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="{{route('education.index')}}">
-              <i class="mdi mdi-file-document-box-outline menu-icon"></i>
+              <i class="mdi mdi-account-box-outline menu-icon"></i>
               <span class="menu-title">Team</span>
             </a>
           </li>
@@ -109,13 +109,13 @@
         -->
           <li class="nav-item">
             <a class="nav-link" href="{{route('profile.index')}}">
-              <i class="mdi mdi-file-document-box-outline menu-icon"></i>
+              <i class="mdi mdi-account-card-details menu-icon"></i>
               <span class="menu-title">Profile</span>
             </a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="{{route('pengaturanhalaman.index')}}">
-              <i class="mdi mdi-file-document-box-outline menu-icon"></i>
+              <i class="mdi mdi-settings-outline menu-icon"></i>
               <span class="menu-title">Setting Page</span>
             </a>
           </li>
